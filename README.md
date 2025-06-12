@@ -1,7 +1,3 @@
-Flutter Reels App
-
-A simple, high-performance Flutter application built using clean architecture and BLoC pattern to showcase videos like Instagram Reels.
-
 Features
 
 * Fetches video data from API  
